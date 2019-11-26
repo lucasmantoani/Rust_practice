@@ -4,7 +4,7 @@ This repository contains all my Rust exercices and practice. I mainly follow the
 
 *Ce Repository contient tout les exercices et TP que j'ai réalisé en Rust. J'ai principalement suivi la documentation de Rust et le cours en ligne "Rust Fondamentals*.
 
-## How to use Rust :
+## How to use Rust / Comment débuter avec Rust :
 
 This repository contains Rust and Cargo files. In order to run them and start using Rust, just follow these simple steps of the official Rust documentation here :
 
