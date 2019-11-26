@@ -59,6 +59,7 @@ This is called a **manifest**, and it contains all of the metadata that Cargo ne
 *Cela s'appelle le **manifeste**, et il contient toutes les métadonnées dont Cargo à besoin pour compiler votre package.*
 
 Here’s what’s in `src/main.rs`:
+
 *Voici le contenu de `src/main.rs`:*
 
 ```rust
