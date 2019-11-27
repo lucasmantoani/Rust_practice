@@ -25,16 +25,18 @@ You can learn more about it [here.](https://en.wikipedia.org/wiki/Rust_%28progra
 
 ## [First Steps with Cargo](https://doc.rust-lang.org/cargo/getting-started/first-steps.html#first-steps-with-cargo)
 
-To start a new package with Cargo, use `cargo new`:
 
 *Pour créer un nouveau package avec Cargo, utilisez la commande  `cargo new`:*
+
+To start a new package with Cargo, use `cargo new`:
 
 ```console
 $ cargo new hello_world
 ```
+*Voyons ce que Cargo à généré pour nous après cette commande :*
+
 Let’s check out what Cargo has generated for us:
 
-*Voyons ce que Cargo à généré pour nous après cette commande :*
 ```console
 $ cd hello_world
 $ tree .
@@ -45,10 +47,10 @@ $ tree .
 
 1 directory, 2 files
 ```
+*Voila tout ce qu'il nous faut pour démarrer. Regardez `Cargo.toml`: *
 
 This is all we need to get started. First, let’s check out `Cargo.toml`:
 
-*Voila tout ce qu'il nous faut pour démarrer. Regardez `Cargo.toml`: *
 ```
 [package]
 name = "hello_world"
@@ -58,13 +60,14 @@ edition = "2018"
 
 [dependencies]
 ```
+*Cela s'appelle le **manifeste**, et il contient toutes les métadonnées dont Cargo à besoin pour compiler votre package.*
+
 This is called a **manifest**, and it contains all of the metadata that Cargo needs to compile your package.
 
-*Cela s'appelle le **manifeste**, et il contient toutes les métadonnées dont Cargo à besoin pour compiler votre package.*
+*Voici le contenu de `src/main.rs`:*
 
 Here’s what’s in `src/main.rs`:
 
-*Voici le contenu de `src/main.rs`:*
 
 ```rust
 fn main() {
@@ -72,9 +75,10 @@ fn main() {
 }
 ```
 
-Cargo generated a “hello world” for us. Let’s compile it:
-
 *Cargo à généré automatiquement un Hello World, compilez le :*
+
+
+Cargo generated a “hello world” for us. Let’s compile it:
 
 ```console
 $ cargo build
