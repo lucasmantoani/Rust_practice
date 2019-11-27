@@ -1,23 +1,27 @@
 # Rust_practice
-This repository contains all my Rust exercices and practice. I mainly follow the official Rust documentation and the "Rust Fondamentals" course.
-
 
 *Ce Repository contient tout les exercices et TP que j'ai réalisé en Rust. J'ai principalement suivi la documentation de Rust et le cours en ligne "Rust Fondamentals*.
 
+
+This repository contains all my Rust exercices and practice. I mainly follow the official Rust documentation and the "Rust Fondamentals" course.
+
+
 ## How to use Rust / Comment débuter avec Rust :
+
+*Ce Repository contient des fichiers provenant de Rust et Cargo. Pour utiliser Rust, suivez simplement les instruction dans la documentation officielle (Pas traduite en Français à l'heure actuelle)*
+
 
 This repository contains Rust and Cargo files. In order to run them and start using Rust, just follow these simple steps of the official Rust documentation here :
 
 
-*Ce Repository contient des fichiers provenant de Rust et Cargo. Pour utiliser Rust, suivez simplement les instruction dans la documentation officielle (Pas traduite en Français à l'heure actuelle)*
-
 > https://doc.rust-lang.org/cargo/getting-started/index.html
-
-I made this repository because most of my coworkers or friends have never even heard of Rust.
-You can learn more about it [here.](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
 
 
 *J'ai créé ce Repository car la majorité de mes collègues et amis n'avaient jamais entendu parler de ce langage, vous pouvez en apprendre un peu plus à ce sujet [ici.](https://fr.wikipedia.org/wiki/Rust_(langage))*
+
+
+I made this repository because most of my coworkers or friends have never even heard of Rust.
+You can learn more about it [here.](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
 
 ## [First Steps with Cargo](https://doc.rust-lang.org/cargo/getting-started/first-steps.html#first-steps-with-cargo)
 
