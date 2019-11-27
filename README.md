@@ -84,19 +84,20 @@ Cargo generated a “hello world” for us. Let’s compile it:
 $ cargo build
    Compiling hello_world v0.1.0 (file:///path/to/package/hello_world)
 ```
+*Puis lancez le avec la commande :*
 
 And then run it :
 
-*Puis lancez le avec la commande :*
 
 ```console
 $ ./target/debug/hello_world
 Hello, world!
 ```
 
+*Une méthode plus simple :  `cargo run` permet de compiler et lancer le code, le tout en une seule commande.* 
+
 We can also use `cargo run` to compile and then run it, all in one step:
 
-*Une méthode plus simple :  `cargo run` permet de compiler et lancer le code, le tout en une seule commande.* 
 
 ```console
 $ cargo run
