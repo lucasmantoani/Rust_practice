@@ -35,7 +35,7 @@ $ cargo new hello_world
 ```
 *Voyons ce que Cargo à généré pour nous après cette commande :*
 
-Let’s check out what Cargo has generated for us:
+Let’s check out what Cargo has generated for us :
 
 ```console
 $ cd hello_world
@@ -78,7 +78,7 @@ fn main() {
 *Cargo à généré automatiquement un Hello World, compilez le :*
 
 
-Cargo generated a “hello world” for us. Let’s compile it:
+Cargo automaticaly generated a “hello world” for us. Let’s compile it:
 
 ```console
 $ cargo build
