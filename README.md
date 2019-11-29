@@ -105,3 +105,8 @@ $ cargo run
    Running `target/hello_world`
 Hello, world!
 ```
+
+## Comming Soon :
+
+*Plus d'exemple de code en Rust, des exercices et des essais*
+*More Rust samples, exercices and tests*
