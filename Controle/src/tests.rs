@@ -1,7 +1,7 @@
 #![allow(dead_code)]
 
 //!
-//! INSTRUCTIONS: Try to use the three loop types for each exercise.
+//! INSTRUCTIONS: Utilisez les trois boucles pour chaques exercices
 //! 
 
 
