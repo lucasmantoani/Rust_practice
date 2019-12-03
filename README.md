@@ -108,5 +108,5 @@ Hello, world!
 
 ## Comming Soon :
 
-*Plus d'exemple de code en Rust, des exercices et des essais*
-*More Rust samples, exercices and tests*
+*Plus d'exemple de code en Rust (boucles, fonctions de base), des exercices et des essais*
+*More Rust samples (Loops, basic functions), exercices and tests*
