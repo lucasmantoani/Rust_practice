@@ -23,7 +23,7 @@ This repository contains Rust and Cargo files. In order to run them and start us
 I made this repository because most of my coworkers or friends have never even heard of Rust.
 You can learn more about it [here.](https://en.wikipedia.org/wiki/Rust_%28programming_language%29)
 
-## [First Steps with Cargo](https://doc.rust-lang.org/cargo/getting-started/first-steps.html#first-steps-with-cargo)
+## [First Steps with Cargo :](https://doc.rust-lang.org/cargo/getting-started/first-steps.html#first-steps-with-cargo)
 
 
 *Pour créer un nouveau package avec Cargo, utilisez la commande  `cargo new`:*
